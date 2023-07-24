@@ -1,2 +1,3 @@
 # UNES_Faculdade
-Projeto de front-end com HTML e CSS.
+> Status: Em desenvolvimento
+Projeto pessoal de front-end com HTML e CSS.
