@@ -1,4 +1,5 @@
 # UNES_Faculdade
 > Status: Em desenvolvimento
 
-Projeto pessoal de front-end com HTML e CSS.
+# 💻 Descrição do Projeto
+Projeto pessoal de front-end com HTML e CSS, simulando um site de universidade totalmente interativo.
